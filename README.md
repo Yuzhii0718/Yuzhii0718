@@ -6,7 +6,7 @@ Interested in C++, Java.
 ### Mail
 lizongchen0718@gmail.com
 ### Blog (Chinese contents only):
-yuzhii0718.github.io
+https://yuzhii0718.github.io
 
 <!--
 **Yuzhii0718/Yuzhii0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
