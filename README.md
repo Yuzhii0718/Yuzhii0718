@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hello, Yuzhii0718 here.
+learning to code.
+Interested in Python, Web.
+
+### Blog (Chinese contents only):
+https://yuzhii0718.github.io
 
 <!--
 **Yuzhii0718/Yuzhii0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
